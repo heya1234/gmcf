@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\bin\Debug\计数软件.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\bin\Debug\计数软件.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\bin\Debug\计数软件.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件_MarkupCompile.lref
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.g.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\计数软件\计数软件\obj\Debug\计数软件.csprojResolveAssemblyReference.cache
